@@ -100,7 +100,7 @@ halalf:Abc_Kecap_Manis_Reffil a foodlirmm:FoodProduct;
 halalf:Abc_Kopi_Instant_Kopi_Gula_Susu a foodlirmm:FoodProduct;
     	a food:Food;
     	foodlirmm:code "1140";
-    	rdfs:label "abc kopi instant kopi,gula+susu";
+    	rdfs:label "abc kopi instant kopi,gula susu";
     	gr:hasManufacturer halalm:Nan .
 
     halalf:Abc_Kopi_Instant_Kopi_Gula_Susu food:containsIngredient halali:gula,halali:krimer_nabati,halali:kopi_bubuk,halali:susu_bubuk_skim .
@@ -1887,9 +1887,9 @@ halalf:Garuda_Kacang_Atom_Apc_Pedas a foodlirmm:FoodProduct;
     	rdfs:label "garuda kacang atom apc pedas";
     	gr:hasManufacturer halalm:Nan .
 
-    halalf:Garuda_Kacang_Atom_Apc_Pedas food:containsIngredient halali:kacang_tanah,halali:tepung_tapioka,halali:minyak_nabati,halali:bawang_putih,halali:gula,halali:sambal_balado,halali:penguat_rasa_mononatrium_glutamat,halali:penguat_rasa_i+g,halali:pemanis_buatan_aspartam,halali:pewarna_makanan_sunset_yellow_ci,halali:garam,halali:penguat_rasa_mononatrium_glutamat,halali:pemanis_buatan_aspartam,halali:adi, .
+    halalf:Garuda_Kacang_Atom_Apc_Pedas food:containsIngredient halali:kacang_tanah,halali:tepung_tapioka,halali:minyak_nabati,halali:bawang_putih,halali:gula,halali:sambal_balado,halali:penguat_rasa_mononatrium_glutamat,halali:penguat_rasa_i,halali:pemanis_buatan_aspartam,halali:pewarna_makanan_sunset_yellow_ci,halali:garam,halali:penguat_rasa_mononatrium_glutamat,halali:pemanis_buatan_aspartam,halali:adi, .
 
-    halalf:Garuda_Kacang_Atom_Apc_Pedas food:ingredientsListAsText "kacang tanah", "tepung tapioka", "minyak nabati", "bawang putih", "gula", "sambal balado", "penguat rasa mononatrium glutamat", "penguat rasa i+g", "pemanis buatan aspartam", "pewarna makanan sunset yellow ci", "garam", "penguat rasa mononatrium glutamat", "pemanis buatan aspartam", "adi," .
+    halalf:Garuda_Kacang_Atom_Apc_Pedas food:ingredientsListAsText "kacang tanah", "tepung tapioka", "minyak nabati", "bawang putih", "gula", "sambal balado", "penguat rasa mononatrium glutamat", "penguat rasa i", "pemanis buatan aspartam", "pewarna makanan sunset yellow ci", "garam", "penguat rasa mononatrium glutamat", "pemanis buatan aspartam", "adi," .
 
     
 halalf:Garuda_Kacang_Garing a foodlirmm:FoodProduct;
