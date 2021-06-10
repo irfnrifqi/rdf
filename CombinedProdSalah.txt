@@ -3599,9 +3599,9 @@ halalf:Kraft_Sandwich_Oreo_Chocolate_Creme a foodlirmm:FoodProduct;
     	rdfs:label "kraft sandwich oreo chocolate creme";
     	gr:hasManufacturer halalm:Nan .
 
-    halalf:Kraft_Sandwich_Oreo_Chocolate_Creme food:containsIngredient halali:gula,halali:tepung_terigu,halali:minyak_nabati,halali:antioksidan_tbhq,halali:bubuk/serbuk_cokelat,halali:sirup_fruktosa,halali:pati_jagung,halali:garam,halali:pengembang,halali:ammonium,halali:natrium_bikarbonat,halali:pengemulsi,halali:lesitin_kedelai,halali:perisa_vanili .
+    halalf:Kraft_Sandwich_Oreo_Chocolate_Creme food:containsIngredient halali:gula,halali:tepung_terigu,halali:minyak_nabati,halali:antioksidan_tbhq,halali:bubuk_serbuk_cokelat,halali:sirup_fruktosa,halali:pati_jagung,halali:garam,halali:pengembang,halali:ammonium,halali:natrium_bikarbonat,halali:pengemulsi,halali:lesitin_kedelai,halali:perisa_vanili .
 
-    halalf:Kraft_Sandwich_Oreo_Chocolate_Creme food:ingredientsListAsText "gula", "tepung terigu", "minyak nabati", "antioksidan tbhq", "bubuk/serbuk cokelat", "sirup fruktosa", "pati jagung", "garam", "pengembang", "ammonium", "natrium bikarbonat", "pengemulsi", "lesitin kedelai", "perisa vanili" .
+    halalf:Kraft_Sandwich_Oreo_Chocolate_Creme food:ingredientsListAsText "gula", "tepung terigu", "minyak nabati", "antioksidan tbhq", "bubuk serbuk cokelat", "sirup fruktosa", "pati jagung", "garam", "pengembang", "ammonium", "natrium bikarbonat", "pengemulsi", "lesitin kedelai", "perisa vanili" .
 
     
 halalf:Kraft_Sandwich_Oreo_Coklat_Vanila a foodlirmm:FoodProduct;
