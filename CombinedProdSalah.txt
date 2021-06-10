@@ -169,7 +169,7 @@ halalf:Abc_Syrup_Squash_Delight_Orange a foodlirmm:FoodProduct;
     	rdfs:label "abc syrup squash delight orange";
     	gr:hasManufacturer halalm:Nan .
 
-    halalf:Abc_Syrup_Squash_Delight_Orange food:containsIngredient halali:air,halali:gula,halali:perisa_leci,halali:pengatur_keasaman,halali:pemanis_buatan_natrium_siklamat__g/kg_minuman_siap_saji,halali:pengawet_natrium_benzoat,halali:sari_buah_jeruk,halali:antioksidan_vitamin_c .
+    halalf:Abc_Syrup_Squash_Delight_Orange food:containsIngredient halali:air,halali:gula,halali:perisa_leci,halali:pengatur_keasaman,halali:pemanis_buatan_natrium_siklamat,halali:pengawet_natrium_benzoat,halali:sari_buah_jeruk,halali:antioksidan_vitamin_c .
 
     halalf:Abc_Syrup_Squash_Delight_Orange food:ingredientsListAsText "air", "gula", "perisa leci", "pengatur keasaman", "pemanis buatan natrium siklamat  g/kg minuman siap saji", "pengawet natrium benzoat", "sari buah jeruk", "antioksidan vitamin c" .
 
